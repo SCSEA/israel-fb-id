@@ -1,0 +1,8 @@
+requests
+colorama
+webbrowser
+bs4
+time
+random
+json
+string
