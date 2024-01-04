@@ -12,4 +12,6 @@ git clone https://github.com/SCSEA/israel-fb-id.git
 
 cd israel-fb-id
 
+pip install requirements.txt
+
 python israel-fb-id.py
