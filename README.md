@@ -12,7 +12,7 @@ git clone https://github.com/SCSEA/israel-fb-id.git
 
 cd israel-fb-id
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 chmod 777 israel-fb-id.py
 
