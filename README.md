@@ -14,6 +14,6 @@ cd israel-fb-id
 
 pip install requirements.txt
 
-chmod +x * israel-fb-id.py
+chmod 777 israel-fb-id.py
 
 python israel-fb-id.py
